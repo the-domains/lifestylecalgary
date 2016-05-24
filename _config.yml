@@ -1,7 +1,7 @@
 name: lifestylecalgary
 favicon: null
-layout_spectrum: 0.6146183172240853
-typography_spectrum: 0.5789243108592927
+layout_spectrum: 0.74811
+typography_spectrum: 0.48834
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.06886306731030345
-  lightness: 0.7576315191108733
-  saturation: 0.07692623836919665
-  rhythmicContrast: 0.06803801120258868
+    - '#ffffff'
+    - '#2f454f'
+    - '#c2b6a4'
+    - '#5f7178'
+    - '#dbdee0'
+  brandStrength: 0.1875
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []

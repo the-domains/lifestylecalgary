@@ -1,28 +1,40 @@
-name: lifestylecalgary
-favicon: null
-layout_spectrum: 0.74811
-typography_spectrum: 0.48834
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5
+  brandStrength: 0.1875
+  lightness: 0.75
+  brandColors:
+    - '#1E313F'
+    - '#2C72B0'
+    - '#5B95C5'
+    - '#94C1D8'
+    - '#D8E4E0'
+  rhythmicContrast: 0.25
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+favicon: null
+name: lifestylecalgary
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#2f454f'
-    - '#c2b6a4'
-    - '#5f7178'
-    - '#dbdee0'
-  brandStrength: 0.1875
-  lightness: 0.75
-  saturation: 0.5
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.4426523
+layout_spectrum: 0.2939068
